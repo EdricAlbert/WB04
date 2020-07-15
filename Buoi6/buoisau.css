@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.img-item{
+    width: 160px;
+    height: 290px;
+    margin: 20px;
+    padding-right: 20px;
+}
+.container-item{
+    display: flex;
+}
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}
+.info {
+    font-size: 20px;
+}
+.rate {
+    color:midnightblue;
+}
+.stock {
+    color: #B12704;
+}
+.second-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.image-item{
+    width: 250px;
+    height: 290px;
+}
+.item{
+    width: 200px;
+    height: 350px;
+}
+.infor {
+    font-size: 25px;
+}
